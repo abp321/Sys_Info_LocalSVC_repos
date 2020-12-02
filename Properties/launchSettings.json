@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Sys_Info_LocalSVC": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
